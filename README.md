@@ -22,6 +22,10 @@ A modern and responsive company landing page developed during my Web Development
 
 ![Nexora Technologies](preview.png)
 
+## 🌐 Live Demo
+
+[View Live Project](https://iqrayaqoob1.github.io/DecodeLabs-Project1-nexora-technologies-/)
+
 ## 👩‍💻 Author
 
 Iqra Yaqoob
