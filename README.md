@@ -13,6 +13,11 @@ A modern and responsive company landing page developed during my Web Development
 - Contact Form
 - Clean Layout
 
+## 🌐 Live Demo
+
+[View Live Project](https://iqrayaqoob1.github.io/DecodeLabs-Project1-nexora-technologies-/)
+
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -22,9 +27,6 @@ A modern and responsive company landing page developed during my Web Development
 
 ![Nexora Technologies](preview.png)
 
-## 🌐 Live Demo
-
-[View Live Project](https://iqrayaqoob1.github.io/DecodeLabs-Project1-nexora-technologies-/)
 
 ## 👩‍💻 Author
 
